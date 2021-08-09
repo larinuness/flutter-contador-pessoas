@@ -1,2 +1,2 @@
 # flutter-contador-pessoas
-Praticando com curso de Udemy sobre.
+Praticando com Flutter com curso da Udemy.
